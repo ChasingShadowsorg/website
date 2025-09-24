@@ -29,6 +29,18 @@ export default function Home() {
       >
         Contact Us
       </a>
+
+      <div className="mt-8 text-sm text-[#b0b0b0]">
+        Follow us on 
+        <a 
+          href="https://x.com/ShadowChasingNE" 
+          target="_blank" 
+          rel="noopener noreferrer"
+          className="underline hover:text-white transition-colors"
+        >
+          X (@ShadowChasingNE)
+        </a>
+      </div>
     </div>
   );
 }
