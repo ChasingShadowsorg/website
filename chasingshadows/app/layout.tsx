@@ -15,6 +15,9 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Chasing Shadows - Paranormal Investigations in New England",
   description: "Dedicated team exploring haunted locations across New England. Documenting the unknown with respect and cutting-edge technology.",
+  icons: {
+    icon: "/logo.png",
+  },
   openGraph: {
     title: "Chasing Shadows",
     description: "Paranormal Investigations Across New England",
