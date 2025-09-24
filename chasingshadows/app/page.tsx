@@ -9,9 +9,9 @@ export default function Home() {
       <Image
         src="/logo.png"
         alt="Chasing Shadows Logo"
-        width={200}
-        height={200}
-        className="max-w-[200px] mb-6"
+        width={400}
+        height={400}
+        className="max-w-[400px] mb-6"
         priority
       />
       

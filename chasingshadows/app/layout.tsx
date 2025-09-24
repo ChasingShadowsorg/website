@@ -16,7 +16,8 @@ export const metadata: Metadata = {
   title: "Chasing Shadows - Paranormal Investigations in New England",
   description: "Dedicated team exploring haunted locations across New England. Documenting the unknown with respect and cutting-edge technology.",
   icons: {
-    icon: "/logo.png",
+    icon: "/favicon.ico",
+    apple: "/logo.png", // For Apple touch icon
   },
   openGraph: {
     title: "Chasing Shadows",
